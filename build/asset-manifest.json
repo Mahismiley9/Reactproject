@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a3464cc0.css",
+    "main.js": "/static/js/main.456a53c6.js",
+    "static/js/453.8460c1fb.chunk.js": "/static/js/453.8460c1fb.chunk.js",
+    "static/media/gym logo.png": "/static/media/gym logo.5f79ddd0e752c0a6c8da.png",
+    "static/media/94e034fd-9635-4e7a-b591-57127fcfc4bc.jpg": "/static/media/94e034fd-9635-4e7a-b591-57127fcfc4bc.dbdaa521a9f12145ad71.jpg",
+    "static/media/body.png": "/static/media/body.38245f9392ee3f7b17e3.png",
+    "static/media/gym.jpeg": "/static/media/gym.3b386dd7051e139cf59d.jpeg",
+    "static/media/gym2.jpg": "/static/media/gym2.434051055ad240c09d43.jpg",
+    "static/media/gym5.jpg": "/static/media/gym5.183e7497641b453a7cfc.jpg",
+    "static/media/gym3.jpg": "/static/media/gym3.4455b5101ff2d6b1cef0.jpg",
+    "static/media/3.jpg": "/static/media/3.d8a633cd459a54809e5a.jpg",
+    "static/media/calories.png": "/static/media/calories.99b7f9db636c35ef3a6b.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.a3464cc0.css.map": "/static/css/main.a3464cc0.css.map",
+    "main.456a53c6.js.map": "/static/js/main.456a53c6.js.map",
+    "453.8460c1fb.chunk.js.map": "/static/js/453.8460c1fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3464cc0.css",
+    "static/js/main.456a53c6.js"
+  ]
+}
